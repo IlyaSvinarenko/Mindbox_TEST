@@ -1,0 +1,27 @@
+# Байт-код Python
+__pycache__/
+*.py[cod]
+
+# Файлы окружения Python
+venv/
+*.venv
+env/
+*.env
+
+# Файлы IDE
+.idea/
+
+# Файлы журналов и базы данных
+*.log
+*.sql
+*.sqlite
+
+# Зависимости
+*.egg-info/
+/dist/
+/build/
+/wheels/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
